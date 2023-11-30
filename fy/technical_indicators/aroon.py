@@ -1,3 +1,4 @@
+# Measuring Strength of stock trend
 # Import dependencies
 import numpy as np
 import pandas as pd

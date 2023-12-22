@@ -71,4 +71,5 @@ ax2.grid()
 ax2.set_ylabel("Geometric Return")
 ax2.set_xlabel("Date")
 ax2.legend(loc="best")
+#showing plots 
 plt.show()

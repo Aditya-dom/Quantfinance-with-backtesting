@@ -47,7 +47,7 @@ python example_program.py
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 ## Authors
-- [@shashankvemuri](https://www.github.com/aditya-dom)
+- [@aditya-dom](https://www.github.com/aditya-dom)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).

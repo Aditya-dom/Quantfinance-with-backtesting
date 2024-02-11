@@ -1,4 +1,4 @@
-# Finance - Buddy open fy folder
+# Quant-Finance 
 
 ## Introduction
 Welcome to 'Quantfinance with backtesting Strategies' - a comprehensive collection of over 200+ Python programs designed for quantitative finance enthusiasts and professionals. This repository is your go-to resource for gathering, manipulating, and analyzing stock market data, leveraging the power of Python to unlock insights in the financial markets.

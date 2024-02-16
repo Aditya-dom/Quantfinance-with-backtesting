@@ -75,4 +75,4 @@ ax1.set_title("Stock " + symbol + " Closing Price")
 ax1.set_ylabel("Price")
 ax1.legend(loc="best")
 plt.show()
-## Drunk but in my sense I am devil's buddy  
+## Drunk, but in my senses
